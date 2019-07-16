@@ -7,7 +7,7 @@ This repository is a collection of toolkits intended to help potential technical
 ## Toolkits
 |           Topic     |Description                          |Time                         |
 |----------------|-------------------------------|-----------------------------|
-|:book: User Scripts and Gadgets|This is a beginner-level workshop toolkit to train technical contributors on how to develop user scripts and gadgets.             |    ~1-1.30 hr        |
+|:book: [User Scripts and Gadgets](user-scripts-and-gadgets/README.md)|This is a beginner-level workshop toolkit to train technical contributors on how to develop user scripts and gadgets.             |    ~1-1.30 hr        |
 |     Stay tuned     |     ..       |     ..       | ..
 
 ##  Guidelines for using and contributing to the toolkits
