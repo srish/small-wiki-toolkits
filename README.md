@@ -2,7 +2,7 @@
 # :hammer_and_wrench: Small wiki toolkits
 
 ## Introduction
-This repository is a collection of toolkits intended to help potential technical trainers teach, and contributors learn a variety of skills (e.g., developing gadgets, running bots, training trainers, etc.) needed to support, maintain, and grow [smalls wikis](https://meta.wikimedia.org/wiki/Small_and_large_wikis#Small_wikis).
+This repository is a collection of toolkits intended to help potential technical trainers teach, and contributors learn a variety of skills (e.g., developing gadgets, running bots, training trainers, etc.) needed to support, maintain, and grow [small wikis](https://meta.wikimedia.org/wiki/Small_and_large_wikis#Small_wikis).
 
 ## Toolkits
 |           Topic     |Description                          |Time                         |
